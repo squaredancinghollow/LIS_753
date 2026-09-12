@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <link rel="stylesheet" href="style.css">
+    <meta charset="utf-8">
+    <meta name="description" content="This is a test page for LIS 753.">
+    <title> Exercise 2 </title>
+</head>
+<body>
+  <ul>
+<li><h2><a href="#plagueis">Tell me about Darth Plagueis, Anakin!</a></h2></li>
+<li><h2><a href="#sauce">Show me your source!</a></h2></li>
+<li><h2><a href="#cat gif">I don't care about Darth Plagueis, show me a cat!</a></h2></li>
+
+    </ul>
+    <section>
+    <h1><a id="plagueis"></a>"Did you ever hear the Tragedy of Darth Plagueis the Wise?"</h1>
+  <h2> "With all due respect sir, that's like asking if Yoda has ever heard of <span>cocaine</span>"</h2>
+  <p2>"Wha-"</p2>
+  <p> I actually have a doctorate in Darth Plagueis the Wise studies and wrote my thesis on the use of dichotomy inherent within the tale, with a particular focus on the intent of the meta narrative.""</p>
+  <h2>"Now, how is that possible at my tender age?"</h2>
+  <p>"Well, I first heard the story the moment I set foot in the Jedi Temple."</p>
+      <p>"Master WIndu, as it turns out, likes telling everyone who walks in his version of events."</p>
+  <h2>"Darth Plagueis has an apprentice who was a little <span>bitch</span> and could only kill him by waiting until his master slept."</h2>
+      <p>"It was ironic though, because Plagueis was trying to learn the secrets to immortality and was like 80% of the way there. But you know what they say, 'A near miss is as good as <span>fucking</span> up so badly you hire an army which eventually kills you and everyone you care about, or writing the sequel trilogy."</p>
+      <p>"Master Windu utilized colorful language coupled with many metaphors that even now I can't penetrate, but thanks to him I decided to devote my life to studying the tale- "</p>
+      <p2>"I... what? What is happening right now?"</p2>
+      <p>"If you'll indulge me a spell, Chancellor. As you're no doubt aware, on a surface, pedestrian level, reading the Tragedy of Darth Plagueis the Wise is the story of a man discovering the secret to immortality but failing to utilize it to retain his own life. </p>
+      <p2>"You have no idea who the apprentice was, do you?" </p2>  
+        <p> However, theoretically the story is actually about the inherent nature of duality in the day-to-day life of the average being, and the finality and inescapable reality of death irrespective of our personal power or position.</p>
+      <p2>"Anakin. That's not what the story is actually about."</p2>
+          <p> The subtextual narrative is, in my view, far more interesting that the simplistic chronology, if you'll excuse the perhaps over-harsh critique of cause and effect present within the given tale.</p>
+      <p2>"You've thought about this way too much."</p2>
+      <p>"But that's perhaps a conversation for another day."</p>
+      <p2>"And also, way too little. "</p2>
+      <p>"Regardless, the sub-text and depth of narrative offered by the Tragedy of Darth Plagueis the Wise is perhaps the greatest of any short story ever penned."</p>
+      <p2>"It's not that deep, Anakin."</p2>
+      <p>"A rich exploration of what it means to be a sapient being, and the often paradoxical nature therein."</p>
+      <p2>"This conversation should have been about a minute long."</p2>
+      <p>"Consider: many of the activities we do to feel alive often bring us closer to our deaths, or risks "</p>
+      <p2>"...Maybe two, tops."</p2>
+      <p>"Whom amongst us has not wished for something to be over faster? Yet in so doing, are we not wishing our death closer?"</p>
+      <p2>"Er. He could use the force to influence the Midichlorians to create life."</p2>
+      <p>"Indeed. Well, regardless, the dochotomous nature of the tale is inherent within even the very title. Darth Plagueis is described to us as wise, and yet he underwent a tragedy."</p>
+      <p2>"Fortunately, he was spared the tragedy of listening to this." </p2>
+      <p>"This is only amplified by the revelation that the tragedy was of his own making: functionally by his own hand and hubris. Yet, that's scarcely scratching the surface of the tale."</p>
+      <p2>"Er. He became so powerful that the only thing he was afraid of-"</p2>
+      <p>"But that's just it, Chancellor! Darth Plagueis sought immortality, yet in so doing invited death."</p>
+      <p2>"I'm considering inviting death myself..."</p2>
+      <p>"And this paradoxically came in the form of his apprentice- one he should have been more learned than, and who should have been his closest confidant."</p>
+      <p2>"How much did the state spend on your education?"</p2>
+      <p>"Even the meta-narrative is underpinned with the continued use of dichotomy-"</p>
+      <p2>"-just checked, it's 100,000 credits."</p2>
+      <p>"Which is where my expertise truly lies."</p>
+      <p2>Per. Term.</p2>
+      <p>"-we see in the way the tale is often introduced, portrayed as a "Sith Legend."</p>
+      <p2>"For a story about 100 words long"</p2>
+      <p>"...Which the Jedi woudn't want or be able to tell you. Functionally, it serves as a kind of "forbidden fruit..."</p>"
+      <p2>"Money well spent, clearly."</p2>
+      <p>"...something you shouldn't want, and yet do."</p>
+      <p2>"Wait. How did Master Windu tell you the story before it happened?"</p2>
+      <p>"Finally, there's the motif: life and death."</p>
+      <p2>"You spent four years of your life on this."</p2>
+      <p>"The tantalizing possibility of the conquest of the latter, but succumbing to it."</p>
+      <p2>"Didn't you have training to be getting on with?"</p2>
+      <p>"It's my personal opinion that the story isn't actually a mere fanciful tale, nor even a sober recounting of historical events. Despite the scholarly consensus-"</p>
+      <p2>"Scholarly consensus?"</p2>
+      <p>"-tending toward the former, I believe this tale is actually intended to be utilized by the apprentice of the titular Darth Plagueis the Wise, now seeking his own apprentice utilizing the demise of his master."</p>
+      <p2>"No. That seems far-fetched."</p2>
+      <p>"It would, I think you'd agree, slot neatly in with the broader themes of dichotomy. But alas, at present my theories remain on the fringes of mainstream academic discourse."</p>
+      <p2>"How did you find the time to do all this?"</p2>
+      <p>"Of course, interest with respect to my school of thought, though admittedly small, is growing and currently enjoying something of a vogueish je ne sais quoi."</p>
+      <p2>"What language was that?"</p2>
+      <p>"And naturally I am learned in the other schools of thought surrounding the tragedy."</p>
+      <p2>"Fine. I'll bite. How many schools of thought are there?"</p2>
+      <p>"Well, sir. There are no small number. For instance, consider: Plagueis could use the force to influence the Midichlorians, yet Midichlorians are what allow for the use of the force. So Plagueis was functionally using the Midichlorians to influence the Midichlorians."</p>
+      <p2>[Silent judgement]</p2>
+      <p>"Ah. Apologies. That usually gets a laugh in the academic circles. Such a lens, when applied to the Tragedy of Darth Plagueis the Wise, is typically referred to as the paradoxical, or tautological, school of thought, wherein the themes are thought to be ouroboric in nature. That is perhaps the most mainstream-"</p>
+      <p2>"I'm sorry. I'm still not over the timeline. Weren't you meant to be fighting in a war the majority of these past few years?"</p2>
+      <p>"Apologies. I didn't mean to talk your ear off. Regardless, that was only a layman's summation of the overarching thrust of my thesis. I didn't want to bore you with too many details. Suffice to say  am very much familiar with the stroy you brought up, and indeed it's something of a personal passion. Not to mention my life's work."</p>
+      <p2>"Anakin. Your wife's gonna die unless you join the dark side.""</p2>
+      <p>"Where do I sign up?"</p>
+    </section>
+  <h3><a id="sauce">Source material!</a></h3>
+<a href="https://www.youtube.com/watch?v=sg0SmgoSMg4">Anakin has a doctorate in Darth Plagueis the Wise Studies</a>
+  <section> 
+    <h3><a id="cat gif">Forget Darth Plagueis, here's a cat!</a> </h3>
+    <img src="https://i.pinimg.com/originals/ea/8b/13/ea8b137fbc46bea2f12cc9087e57053d.gif" alt="A cat typing."
+</section>
+
+</body>
+</html>
