@@ -1,5 +1,6 @@
 body {background-color: black; text-align: center;}
 #darth {color: coral; font-size: 50px;}
+.links {display: flex; justify-content: center; border-radius: 18px;}
 h1 {color: coral; font-family: timesnewroman; background-color: maroon; padding: 10px;}
 p {color: aquamarine; font-family: verdana; background-color: darkslategrey; padding: 10px;}
 p2 {color: coral; font-family: verdana; background-color: maroon; padding: 10px;}
@@ -8,3 +9,10 @@ h3 {color: aqua;}
 h5 {color: teal; font-size: 26px; font-family: timesnewroman;}
 .bleep {color: white; font-family: wingdings;}
 span2 {color: yellow;}
+h7 {color: aquamarine; }
+
+a {font-size: 24px;}
+a:link {color:aquamarine;}
+a:visited {color:cadetblue;}
+a:hover {text-decoration: underline aquamarine wavy;}
+a:active {color:darkcyan;}
