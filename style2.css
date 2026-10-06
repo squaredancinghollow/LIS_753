@@ -1,0 +1,8 @@
+body {background: lightcyan;}
+th, tr, td, table {border: 1px solid; padding: 5px; }
+table {border-collapse: collapse; background: honeydew;}
+h1{font-family: honeydew; color: darkred; font-size: 45px; text-align: center; text-decoration-line: underline; padding: 30px; background: floralwhite;}
+h2 {font-family: monaco; color: brown; font-size: 35px; padding: 30px;}
+th {background: aquamarine}
+form { content-align: center; padding: 50px; display: block; }
+.reg {background: floralwhite;}
