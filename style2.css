@@ -1,8 +1,15 @@
-body {background: lightcyan;}
+article {background: lightcyan; display: flex; justify-content: left; flex-flow: row nowrap;}
 th, tr, td, table {border: 1px solid; padding: 5px; }
-table {border-collapse: collapse; background: honeydew;}
-h1{font-family: honeydew; color: darkred; font-size: 45px; text-align: center; text-decoration-line: underline; padding: 30px; background: floralwhite;}
-h2 {font-family: monaco; color: brown; font-size: 35px; padding: 30px;}
-th {background: aquamarine}
-form { content-align: center; padding: 50px; display: block; }
-.reg {background: floralwhite;}
+table {border-collapse: collapse; background: honeydew; padding: 30px;}
+h1{font-family: monaco; color: lightblue; background-color: floralwhite; font-size: 45px; text-align: center; text-decoration: underline lightblue wavy; padding: 50px; ;}
+h2 {font-family: monaco; color: floralwhite; background: lightblue; font-size: 35px; padding: 30px; text-decoration: underline floralwhite wavy;}
+h2:hover + div {display: block; font-family: monaco; color: floralwhite; background: lightblue; font-size: 22px; padding: 10px; }
+h3 {font-family: monaco; color: black;}
+th {background: lightblue;}
+form { content-align: center; padding: 50px; display: block; flex: 5; justify-content: right; align-self: flex-start; order: 0; background: floralwhite; }
+footer {display: flex; justify-content: space-around; padding: 50px; flex-flow: column nowrap;}
+a:link {color: floralwhite; }
+a:visited {text-decoration: underline darkviolet wavy;}
+a:hover + div {text-color: darkviolet; display: block;}
+div {display: none; background-color: floralwhite; text-color: darkviolet;}
+body {background: lightblue;}
