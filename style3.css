@@ -1,9 +1,9 @@
 article {background: lightcyan; display: flex; justify-content: auto; flex-flow: row wrap; align-items: flex-start;}
 th, tr, td, table {border: 1px solid; padding: 5px; }
 table {border-collapse: collapse; background: honeydew; padding: 30px; flex: 2 300px; justify-content: space-around;}
-h1{font-family: monaco; color: lightseagreen; background-color: floralwhite; font-size: 45px; text-align: center; text-decoration: underline lightseagreen wavy; padding: 50px; ;}
+h1{font-family: monaco; color: #054f51; background-color: floralwhite; font-size: 45px; text-align: center; text-decoration: underline #054f51 wavy; padding: 50px; ;}
 @media (max-width: 768px) {h1 {font-size: 35px; padding: 10px}}
-h2 {font-family: monaco; color: lightseagreen; background: #b8edea; font-size: 35px; padding: 30px; text-decoration: underline lightseagreen wavy;}
+h2 {font-family: monaco; color: #054f51; background: #b8edea; font-size: 35px; padding: 30px; text-decoration: underline #054f51 wavy;}
 @media (max-width: 768px) {h2 {font-size: 30px; padding: 10px;}}
 h2:hover + div {display: block; font-family: monaco; color: floralwhite; background: #b8edea; font-size: 22px; padding: 10px; }
 h3 {font-family: monaco; color: black;}
