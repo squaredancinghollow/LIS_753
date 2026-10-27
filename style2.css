@@ -1,12 +1,13 @@
-article {background: lightcyan; display: flex; justify-content: left; flex-flow: row nowrap;}
+article {background: lightcyan; display: flex; justify-content: auto; flex-flow: row nowrap; align-items: flex-start;}
+@media (width<=900px) {.article {flex-flow: column wrap;}}
 th, tr, td, table {border: 1px solid; padding: 5px; }
-table {border-collapse: collapse; background: honeydew; padding: 30px;}
+table {border-collapse: collapse; background: honeydew; padding: 30px; flex: 2 100px; justify-content: space-around;}
 h1{font-family: monaco; color: lightblue; background-color: floralwhite; font-size: 45px; text-align: center; text-decoration: underline lightblue wavy; padding: 50px; ;}
 h2 {font-family: monaco; color: floralwhite; background: lightblue; font-size: 35px; padding: 30px; text-decoration: underline floralwhite wavy;}
 h2:hover + div {display: block; font-family: monaco; color: floralwhite; background: lightblue; font-size: 22px; padding: 10px; }
 h3 {font-family: monaco; color: black;}
 th {background: lightblue;}
-form { content-align: center; padding: 50px; display: block; flex: 5; justify-content: right; align-self: flex-start; order: 0; background: floralwhite; }
+form { ; padding: 50px; margin-left: auto; background: floralwhite; flex: 1 100px;}
 footer {display: flex; justify-content: space-around; padding: 50px; flex-flow: column nowrap;}
 a:link {color: floralwhite; }
 a:visited {text-decoration: underline darkviolet wavy;}
