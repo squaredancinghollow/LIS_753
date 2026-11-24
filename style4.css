@@ -1,0 +1,21 @@
+article {background: lightcyan; display: flex; justify-content: auto; flex-flow: row wrap; align-items: flex-start;}
+th, tr, td, table {border: 1px solid; padding: 5px; }
+table {border-collapse: collapse; background: honeydew; padding: 30px; flex: 2 300px; justify-content: space-around;}
+h1{font-family: monaco; color: #054f51; background-color: floralwhite; font-size: 50px; text-align: center; text-decoration: underline #054f51 wavy; padding: 50px; ;}
+@media (max-width: 768px) {h1 {font-size: 35px; padding: 10px}}
+h2 {font-family: monaco; color: #054f51; background: #b8edea; font-size: 35px; padding: 30px; text-decoration: underline #054f51 wavy;}
+@media (max-width: 768px) {h2 {font-size: 30px; padding: 10px;}}
+h2:hover + div {display: block; font-family: monaco; color: floralwhite; background: #b8edea; font-size: 22px; padding: 10px; }
+h3 {font-family: monaco; color: black; font-size: 22px; }
+h4 {font-family: monaco; color: black; font-size: 30px; background: #c5e8d7; padding: 20px; outline: solid; outline-color: white; outline-width: 2px; }
+th {background: #c5e8d7;}
+form {padding: 50px; margin-left: auto; background: floralwhite; flex: 1 200px;}
+@media (max-width: 768px) {form {font-size: 20px; padding: 10px}}
+footer {display: flex; justify-content: space-around; padding: 50px; flex-flow: column nowrap;}
+a:link {color: black;}
+a:visited {text-decoration: underline darkviolet wavy;}
+a:hover + div {text-color: darkviolet; display: block;}
+div {display: none; background-color: floralwhite; text-color: darkviolet;}
+body {background: #b8edea;}
+.info {padding: 10px;}
+footer {display: flex; flex-flow: row nowrap; background: floralwhite; padding: 0px; font-size: 24px;}
